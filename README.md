@@ -1,1 +1,1 @@
-# this is my calculator
+# This is my CALCULATOR
